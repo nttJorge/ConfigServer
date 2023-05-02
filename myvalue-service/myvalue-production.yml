@@ -1,4 +1,4 @@
 server:
     port: 8082
 some:
-    value: valor del servidor en prod dsfasdfasdf
+    value: valor del servidor en prod
